@@ -1,0 +1,2 @@
+# CC26x2
+BSP for TI CC26x2
